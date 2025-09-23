@@ -1,0 +1,8 @@
+{
+  "name": "KitCraft.AI",
+  "description": "An AI-powered marketplace for DIY projects. Describe a project idea, and the AI will generate a comprehensive text-based 'DIY kit' for that project, complete with descriptive mockups and visual guides instead of images.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
