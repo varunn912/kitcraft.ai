@@ -1,7 +1,5 @@
 # KitCraft.AI
 
-![KitCraft.AI Logo](https://raw.githubusercontent.com/user-attachments/assets/19323b78-b570-4f59-9ac0-c2474f3780f2)
-
 **KitCraft.AI is a modern, AI-powered marketplace for DIY projects. Describe any project idea, and our AI will instantly generate a comprehensive, text-based 'DIY kit' for you.**
 
 This application is built with a unique constraint: **no AI-generated images**. Instead, it leverages the descriptive power of the Gemini model to create evocative, text-based mockups and visual guides, offering a fresh take on instructional content.
@@ -82,3 +80,5 @@ The application should now be running on your local development server (usually 
 -   **Service Layer**: Business logic (like AI calls and authentication) is separated into a `services` directory.
 -   **Custom Hooks**: Functionality like theme management (`useTheme`), speech services (`useSpeech`), and local storage interaction (`useUserStorage`) are encapsulated in reusable custom hooks.
 -   **Type Safety**: Fully typed with TypeScript to ensure code quality and maintainability.
+
+DEMO- "https://drive.google.com/file/d/10Cr5qyU1JxQhB_KDs1eocP-pAMoacL8N/view?usp=drive_link"
